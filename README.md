@@ -1,6 +1,6 @@
 # 👤 Sistema de Gestión de Usuarios con JSP y Servlets
 
-¡Bienvenido a mi proyecto de gestión de usuarios! Esta aplicación web permite registrar, autenticar y administrar información de usuarios a través de una interfaz web sencilla.
+¡Bienvenido a mi proyecto de gestión de usuarios! Esta aplicación web permite registrar, modificar y eliminar usuarios a través de una interfaz web sencilla.
 
 ## 📖 Descripción
 
